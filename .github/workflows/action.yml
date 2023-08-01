@@ -1,4 +1,4 @@
-name: Prashu build
+name: Prashu codespace demo
 
 on:
   push:
